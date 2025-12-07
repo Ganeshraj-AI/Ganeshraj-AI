@@ -35,7 +35,6 @@
 AI-based dashboard for canteen data, wastage tracking, and smart insights.  
 🚀 Built for **Hacocolypse 2.0**
 
-👉 **Repo:** *Add the GitHub link here after uploading*
 
 ---
 
