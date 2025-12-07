@@ -63,4 +63,4 @@ I love converting small ideas into real working projects — fast!
 ---
 
 ## 📫 Connect With Me  
-*(Add links if you want buttons)*  
+https://www.linkedin.com/in/ganesh-raj-58a061373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
