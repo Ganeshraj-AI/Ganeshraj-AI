@@ -39,12 +39,6 @@ AI-based dashboard for canteen data, wastage tracking, and smart insights.
 
 ---
 
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ganeshraj-AI&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshraj-AI&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
