@@ -35,32 +35,23 @@
 AI-based dashboard for canteen data, wastage tracking, and smart insights.  
 🚀 Built for **Hacocolypse 2.0**
 
-👉 **Repo:** *(add your GitHub link once uploaded)*
-
----
-
-
----
-
-## 📈 Contribution Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganeshraj-AI&theme=react-dark&hide_border=true" />
-</p>
+👉 **Repo:** *Add the GitHub link here after uploading*
 
 ---
 
 ## 🌱 Currently Learning
 - Flask + Backend Development  
-- Data Science (NumPy, Pandas, CSV work)  
+- Data Science (NumPy, Pandas, CSV analysis)  
 - Machine Learning Basics  
 - Full-stack integration  
 
 ---
 
 ## ⭐ Fun Fact  
-I love converting small ideas into real working projects — fast!
+I love turning tiny ideas into full working projects — fast!
 
 ---
 
 ## 📫 Connect With Me  
-https://www.linkedin.com/in/ganesh-raj-58a061373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-raj-58a061373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
