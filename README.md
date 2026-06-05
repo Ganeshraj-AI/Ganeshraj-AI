@@ -1,180 +1,200 @@
-````md
+
 <div align="center">
 
-# Building Things That Should Exist.
+# Ganesh Raj
 
-### AI • Automation • Products • Experiments
+### Building AI Products • Automating Workflows • Solving Real Problems
 
-*"Most people use software. I enjoy building it."*
+*"I don't collect technologies. I collect solved problems."*
 
 </div>
 
 ---
 
-## Who Am I?
+## Currently Building
 
-I don't define myself by programming languages, frameworks, or certifications.
+### 💸 Drift
+An AI-powered Finance Operating System.
 
-I define myself by problems I've solved.
+A conversational layer for personal finance where users can:
 
-Currently exploring how AI, automation, and product thinking can transform messy real-world workflows into systems that simply work.
+- Track expenses through chat
+- Log transactions using voice
+- Understand spending behavior
+- Receive AI-powered financial insights
 
-Some projects become tools.
-
-Some become products.
-
-Some fail.
-
-All of them teach something.
+**Vision:** Make finance feel like a conversation, not a spreadsheet.
 
 ---
 
-## What I Build
+### 🤖 Agentic Systems
 
-### 🤖 AI Systems
-LLMs, RAG pipelines, intelligent workflows, AI-powered products.
+Designing autonomous workflows that can:
 
-### ⚙️ Automation Engines
-Replacing repetitive work with autonomous systems and smart workflows.
+- Research information
+- Process data
+- Generate content
+- Execute business tasks
+- Reduce repetitive work
 
-### 📊 Data Products
-Turning raw information into decisions, insights, and actions.
-
-### 🚀 Startup Experiments
-Rapid MVPs, validation, iteration, and shipping.
-
----
-
-## Current Projects
-
-### Drift
-
-A conversational finance operating system.
-
-Track expenses through chat.
-Talk to your finances.
-Understand where money goes.
-
-**Vision**
-
-> Personal finance should feel like messaging a smart assistant, not filling forms.
-
----
-
-### Project Atlas
-
-A collection of AI-powered automation systems.
-
-Includes:
-
-- Content Repurposing Engines
-- Lead Generation Systems
-- AI Outreach Pipelines
-- Agentic Workflow Experiments
-
-**Mission**
-
-> Automate processes, not creativity.
-
----
-
-### FoodIQ
-
-Smart analytics for canteens.
-
-Using data to understand:
-
-- Wastage
-- Demand Forecasting
-- Operational Efficiency
-
-Built for solving real operational problems with data.
-
----
-
-## Current Obsessions
+Current focus:
 
 - AI Agents
-- RAG Architectures
+- RAG Systems
 - Workflow Automation
-- Product Design
-- Startup Building
-- System Design
-- Human-AI Collaboration
-- Business Strategy
+- LLM Applications
+
+---
+
+### 📊 Data Products
+
+Building systems that transform raw data into decisions.
+
+Projects include:
+
+- Analytics Dashboards
+- Business Intelligence Tools
+- Automated Reporting Systems
+- Operational Insight Platforms
+
+---
+
+## What Drives Me
+
+Most people see a problem and adapt to it.
+
+I see a problem and wonder:
+
+> "Can software solve this?"
+
+That curiosity is what got me into AI, automation, and product building.
+
+---
+
+## Areas I'm Exploring
+
+```text
+Artificial Intelligence
+├── AI Agents
+├── RAG Architectures
+├── LLM Applications
+└── Prompt Engineering
+
+Automation
+├── Workflow Design
+├── Agent Orchestration
+├── Business Automation
+└── Process Optimization
+
+Product Building
+├── MVP Development
+├── User Experience
+├── Product Strategy
+└── Startup Validation
+````
+
+---
+
+## Current Tech Arsenal
+
+### Languages
+
+* Python
+* SQL
+* HTML
+* CSS
+
+### AI & Data
+
+* Pandas
+* NumPy
+* OpenCV
+* NLTK
+
+### GenAI
+
+* OpenAI
+* Claude
+* Gemini
+* Groq
+
+### Backend
+
+* Flask
+* FastAPI
+* Firebase
+* SQLite
+
+### Automation
+
+* n8n
+* Notion API
+* REST APIs
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Power BI
+* Figma
 
 ---
 
 ## Builder Philosophy
 
 ```text
-Learn → Build → Break → Improve → Ship
-````
-
-I don't learn technologies for certificates.
-
-I learn technologies to build things.
-
-I don't chase trends.
-
-I chase problems worth solving.
-
-I care less about the stack and more about:
-
-Can it solve the problem?
-
-Can people use it?
-
-Can it scale?
-
----
-
-## Currently Exploring
-
-```yaml
-AI:
-  - RAG Systems
-  - Agentic Workflows
-  - LLM Applications
-
-Backend:
-  - Python
-  - FastAPI
-  - Databases
-
-Product:
-  - MVP Development
-  - Startup Validation
-  - User Experience
+Learn
+ ↓
+Build
+ ↓
+Break
+ ↓
+Improve
+ ↓
+Ship
 ```
 
+I don't learn technologies to complete courses.
+
+I learn technologies to build products.
+
+I don't optimize for certificates.
+
+I optimize for execution.
+
 ---
 
-## GitHub
+## Current Mission
 
-This profile is a collection of:
+Build products that:
 
-* Experiments
-* Products
-* Failures
-* Lessons
-* Late-night ideas turned into code
+✓ Save time
 
-Some projects are polished.
+✓ Remove friction
 
-Some are messy.
+✓ Automate repetitive work
 
-All are part of the journey.
+✓ Create real-world value
+
+---
+
+## Open To
+
+* AI/ML Internships
+* Startup Collaborations
+* Hackathons
+* Open Source Contributions
+* Interesting Problems Worth Solving
 
 ---
 
 <div align="center">
 
-### Still Learning.
+### Building Every Day.
 
-### Still Shipping.
+### Shipping Every Week.
 
-### Still Building.
+### Improving Forever.
 
 </div>
-```
