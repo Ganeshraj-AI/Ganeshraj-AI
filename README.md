@@ -1,200 +1,212 @@
-
+````markdown
 <div align="center">
 
 # Ganesh Raj
 
-### Building AI Products • Automating Workflows • Solving Real Problems
+### AI / ML • Data Science • Automation
 
-*"I don't collect technologies. I collect solved problems."*
+*Building systems that turn ideas into useful software.*
+
+<br>
+
+<a href="https://github.com/Ganeshraj-AI">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-## Currently Building
+## 👨‍💻 About Me
 
-### 💸 Drift
-An AI-powered Finance Operating System.
+I'm an **AI/ML student and builder** interested in turning real-world problems into practical software solutions.
 
-A conversational layer for personal finance where users can:
+Currently exploring:
 
-- Track expenses through chat
-- Log transactions using voice
-- Understand spending behavior
-- Receive AI-powered financial insights
-
-**Vision:** Make finance feel like a conversation, not a spreadsheet.
-
----
-
-### 🤖 Agentic Systems
-
-Designing autonomous workflows that can:
-
-- Research information
-- Process data
-- Generate content
-- Execute business tasks
-- Reduce repetitive work
-
-Current focus:
-
+- Machine Learning
+- Artificial Intelligence
+- Data Science
+- Generative AI
 - AI Agents
-- RAG Systems
 - Workflow Automation
-- LLM Applications
+- Backend Development
+
+I learn by **building, experimenting, breaking things, and improving them**.
 
 ---
 
-### 📊 Data Products
+## 🎓 Education
 
-Building systems that transform raw data into decisions.
+**B.Sc. Artificial Intelligence & Machine Learning**  
+Pillai College of Arts, Commerce & Science
 
-Projects include:
-
-- Analytics Dashboards
-- Business Intelligence Tools
-- Automated Reporting Systems
-- Operational Insight Platforms
+**BS in Data Science**  
+Indian Institute of Technology Madras
 
 ---
 
-## What Drives Me
-
-Most people see a problem and adapt to it.
-
-I see a problem and wonder:
-
-> "Can software solve this?"
-
-That curiosity is what got me into AI, automation, and product building.
-
----
-
-## Areas I'm Exploring
+## 🧠 Areas I'm Exploring
 
 ```text
 Artificial Intelligence
+├── Machine Learning
+├── Deep Learning
+├── Generative AI
 ├── AI Agents
-├── RAG Architectures
-├── LLM Applications
-└── Prompt Engineering
+└── RAG Systems
+
+Data
+├── Data Analysis
+├── Data Processing
+├── Data Visualization
+└── Data Engineering
 
 Automation
-├── Workflow Design
+├── Workflow Automation
+├── APIs
 ├── Agent Orchestration
-├── Business Automation
 └── Process Optimization
 
-Product Building
-├── MVP Development
-├── User Experience
-├── Product Strategy
-└── Startup Validation
+Software
+├── Backend Development
+├── Database Systems
+├── Cloud Services
+└── Product Development
 ````
 
 ---
 
-## Current Tech Arsenal
+## ⚙️ Tech Stack
 
 ### Languages
 
-* Python
-* SQL
-* HTML
-* CSS
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
-### AI & Data
+### Machine Learning & Data
 
-* Pandas
-* NumPy
-* OpenCV
-* NLTK
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+</p>
 
-### GenAI
+### Generative AI
 
-* OpenAI
-* Claude
-* Gemini
-* Groq
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Groq-F54A00?style=for-the-badge&logo=groq&logoColor=white">
+</p>
 
-### Backend
+### Backend & Databases
 
-* Flask
-* FastAPI
-* Firebase
-* SQLite
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
 
-### Automation
+### Automation & Tools
 
-* n8n
-* Notion API
-* REST APIs
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Power BI
-* Figma
+<p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
+</p>
 
 ---
 
-## Builder Philosophy
+## 📚 Currently Learning
+
+```text
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+Generative AI
+        ↓
+AI Agents
+        ↓
+Production AI Systems
+```
+
+---
+
+## 🧩 My Approach
 
 ```text
 Learn
- ↓
+  ↓
 Build
- ↓
+  ↓
 Break
- ↓
+  ↓
+Understand
+  ↓
 Improve
- ↓
+  ↓
 Ship
 ```
 
-I don't learn technologies to complete courses.
+---
 
-I learn technologies to build products.
+## 📊 GitHub Statistics
 
-I don't optimize for certificates.
+<div align="center">
 
-I optimize for execution.
+<img src="https://github-readme-stats.vercel.app/api?username=Ganeshraj-AI&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganeshraj-AI&theme=dark&hide_border=true" height="170">
+
+</div>
 
 ---
 
-## Current Mission
+## 📈 Contribution Graph
 
-Build products that:
+<div align="center">
 
-✓ Save time
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganeshraj-AI&theme=github-dark&hide_border=true&area=true" width="95%">
 
-✓ Remove friction
-
-✓ Automate repetitive work
-
-✓ Create real-world value
-
----
-
-## Open To
-
-* AI/ML Internships
-* Startup Collaborations
-* Hackathons
-* Open Source Contributions
-* Interesting Problems Worth Solving
+</div>
 
 ---
 
 <div align="center">
 
-### Building Every Day.
+## 🏗️ Builder Philosophy
 
-### Shipping Every Week.
+**Don't learn just to know.**
 
-### Improving Forever.
+**Learn to build.**
+
+**Build to understand.**
+
+**Understand to solve.**
+
+<br>
+
+### Building Every Day • Learning Continuously • Solving Real Problems
 
 </div>
+```
+
+to your LinkedIn profile URL.
