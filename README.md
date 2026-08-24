@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # Ganesh Raj
@@ -10,11 +9,11 @@
 <br>
 
 <a href="https://github.com/Ganeshraj-AI">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 &nbsp;
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
@@ -27,13 +26,13 @@ I'm an **AI/ML student and builder** interested in turning real-world problems i
 
 Currently exploring:
 
-- Machine Learning
-- Artificial Intelligence
-- Data Science
-- Generative AI
-- AI Agents
-- Workflow Automation
-- Backend Development
+* Machine Learning
+* Artificial Intelligence
+* Data Science
+* Generative AI
+* AI Agents
+* Workflow Automation
+* Backend Development
 
 I learn by **building, experimenting, breaking things, and improving them**.
 
@@ -41,10 +40,10 @@ I learn by **building, experimenting, breaking things, and improving them**.
 
 ## 🎓 Education
 
-**B.Sc. Artificial Intelligence & Machine Learning**  
+**B.Sc. Artificial Intelligence & Machine Learning**
 Pillai College of Arts, Commerce & Science
 
-**BS in Data Science**  
+**BS in Data Science**
 Indian Institute of Technology Madras
 
 ---
@@ -76,7 +75,7 @@ Software
 ├── Database Systems
 ├── Cloud Services
 └── Product Development
-````
+```
 
 ---
 
@@ -136,6 +135,8 @@ Software
 
 ## 📚 Currently Learning
 
+<div align="center">
+
 ```text
 Machine Learning
         ↓
@@ -148,9 +149,13 @@ AI Agents
 Production AI Systems
 ```
 
+</div>
+
 ---
 
 ## 🧩 My Approach
+
+<div align="center">
 
 ```text
 Learn
@@ -166,15 +171,19 @@ Improve
 Ship
 ```
 
+</div>
+
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ganeshraj-AI&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=Ganeshraj-AI&show_icons=true&theme=dark&hide_border=true&count_private=true">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganeshraj-AI&theme=dark&hide_border=true" height="170">
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganeshraj-AI&theme=dark&hide_border=true">
 
 </div>
 
@@ -207,6 +216,3 @@ Ship
 ### Building Every Day • Learning Continuously • Solving Real Problems
 
 </div>
-```
-
-to your LinkedIn profile URL.
