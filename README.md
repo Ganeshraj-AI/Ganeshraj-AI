@@ -149,8 +149,7 @@ Open to conversations around:
 * Interesting technical problems
 * Collaborations and opportunities
 
-**LinkedIn:** YOUR_LINKEDIN_LINK
-**Portfolio:** YOUR_PORTFOLIO_LINK
+
 
 ---
 
