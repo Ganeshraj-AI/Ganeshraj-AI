@@ -1,54 +1,34 @@
-<div align="center">
-
 # Ganesh Raj
 
-### AI / ML • Data Science • Automation
+### Exploring the systems behind intelligence.
 
-*Building systems that turn ideas into useful software.*
+Most people see AI as tools.
 
-<br>
+I'm more interested in the systems behind them — how intelligence, automation, software, and the internet combine to create useful products and leverage.
 
-<a href="https://github.com/Ganeshraj-AI">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-&nbsp;
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+My interests sit at the intersection of:
 
-</div>
+**AI × Systems × Business × Human Behavior × Distribution**
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm an **AI/ML student and builder** interested in turning real-world problems into practical software solutions.
+I build and experiment with machine learning, AI systems, automation, and software.
 
-Currently exploring:
+I'm particularly interested in understanding:
 
-* Machine Learning
-* Artificial Intelligence
-* Data Science
-* Generative AI
-* AI Agents
-* Workflow Automation
-* Backend Development
+* How intelligent systems work
+* How automation creates leverage
+* How technology changes businesses and industries
+* How software, distribution, and human behavior interact
+* How AI-native products and systems will be built
 
-I learn by **building, experimenting, breaking things, and improving them**.
+Rather than simply chasing new tools, I like understanding the underlying systems and then experimenting with them through code.
 
 ---
 
-## 🎓 Education
-
-**B.Sc. Artificial Intelligence & Machine Learning**
-Pillai College of Arts, Commerce & Science
-
-**BS in Data Science**
-Indian Institute of Technology Madras
-
----
-
-## 🧠 Areas I'm Exploring
+## Focus Areas
 
 ```text
 Artificial Intelligence
@@ -67,152 +47,113 @@ Data
 Automation
 ├── Workflow Automation
 ├── APIs
-├── Agent Orchestration
+├── AI Workflows
 └── Process Optimization
 
 Software
 ├── Backend Development
 ├── Database Systems
-├── Cloud Services
-└── Product Development
+├── Application Development
+└── Product Systems
 ```
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</p>
+`Python` · `SQL` · `HTML` · `CSS` · `JavaScript`
 
 ### Machine Learning & Data
 
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-</p>
+`NumPy` · `Pandas` · `Scikit-learn` · `Matplotlib` · `OpenCV` · `TensorFlow`
 
-### Generative AI
+### AI & LLM Ecosystem
 
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/Groq-F54A00?style=for-the-badge&logo=groq&logoColor=white">
-</p>
+`OpenAI APIs` · `Groq` · `Gemini` · `Claude` · `RAG`
 
 ### Backend & Databases
 
-<p>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-</p>
+`Flask` · `FastAPI` · `Firebase` · `SQLite` · `MySQL` · `MongoDB`
 
-### Automation & Tools
+### Automation & Development Tools
 
-<p>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
-</p>
+`n8n` · `Git` · `GitHub` · `VS Code` · `Figma`
 
 ---
 
-## 📚 Currently Learning
-
-<div align="center">
+## Currently Exploring
 
 ```text
 Machine Learning
-        ↓
+      ↓
 Deep Learning
-        ↓
-Generative AI
-        ↓
-AI Agents
-        ↓
-Production AI Systems
+      ↓
+AI Systems
+      ↓
+AI Agents & Automation
+      ↓
+Production AI Applications
 ```
 
-</div>
+Alongside technology, I'm also exploring how AI is reshaping:
+
+* Internet businesses
+* Software products
+* Automation and productivity
+* Distribution and leverage
+* Modern business strategy
 
 ---
 
-## 🧩 My Approach
-
-<div align="center">
+## How I Work
 
 ```text
-Learn
-  ↓
-Build
-  ↓
-Break
-  ↓
 Understand
-  ↓
+    ↓
+Experiment
+    ↓
+Build
+    ↓
+Break
+    ↓
 Improve
-  ↓
+    ↓
 Ship
 ```
 
-</div>
+I learn best by turning concepts into working systems.
 
 ---
 
-## 📊 GitHub Statistics
+## Direction
 
-<div align="center">
+Long term, I want to build systems that combine:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ganeshraj-AI&show_icons=true&theme=dark&hide_border=true&count_private=true">
+**Intelligence × Automation × Software × Distribution**
 
-<br><br>
+The goal isn't just to use AI.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganeshraj-AI&theme=dark&hide_border=true">
-
-</div>
+It's to understand where intelligence fits into larger systems — and build useful things around it.
 
 ---
 
-## 📈 Contribution Graph
+## Connect
 
-<div align="center">
+Open to conversations around:
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganeshraj-AI&theme=github-dark&hide_border=true&area=true" width="95%">
+* AI and machine learning
+* Automation and AI systems
+* Startups and AI-native products
+* Interesting technical problems
+* Collaborations and opportunities
 
-</div>
+**LinkedIn:** YOUR_LINKEDIN_LINK
+**Portfolio:** YOUR_PORTFOLIO_LINK
 
 ---
 
-<div align="center">
-
-## 🏗️ Builder Philosophy
-
-**Don't learn just to know.**
-
-**Learn to build.**
-
-**Build to understand.**
-
-**Understand to solve.**
-
-<br>
-
-### Building Every Day • Learning Continuously • Solving Real Problems
-
-</div>
+> Build to understand.
+> Understand to improve.
+> Improve to create.
