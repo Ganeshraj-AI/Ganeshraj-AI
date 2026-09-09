@@ -156,3 +156,11 @@ Open to conversations around:
 > Build to understand.
 > Understand to improve.
 > Improve to create.
+
+---
+
+## GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ganeshraj-AI" alt="GitHub Streak" />
+</p>
